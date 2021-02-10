@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Jeremysvn/Jeremy/blob/master/zen-logo.png" alt="禅" width="238px" height="275px" />
+<img align="right" src="https://github.com/Jeremysvn/Jeremy/blob/main/zen-logo.png" alt="禅" width="238px" height="275px" />
 
 # Jeremy
 
